@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KOTLIN1</string>
+    <string name="happy_birthday_idriss">Happy Birthday IDRISS!</string>
+    <string name="happy_birthday_text">Happy Birthday IDRISS!</string>
+    <string name="jetpack_compose_tutorial">Jetpack Compose tutorial</string>
+    <string name="jetpack_compose_tutoriall">Jetpack Compose Tutorial</string>
+    <string name="second_text">Jetpack compose tutorial is a modem toolkit for building native  android ui . Compose simplifies and  accelerates UI development on android  with les code , powerful tools , and intuitive kolin APIs.</string>
+    <string name="Third_text">In this tutorial , you buuld a simple  UI compoment with declarative functions.  you call compose  functions to say  whta elements you want add  the compose  compilier does the rest. Compose is build around composable  functions. These functions  let you define your  app\'s UI programmatically  because they let you define you describe now it should look  and provide  data dependecies , rather than focus on the process oh the UI\'s construction , such as initializing an elememt and them attaching it to a parent . To create  a composable function, you add the @Composable annotation to the function name.</string>
+    <string name="first_quadrant">Displays text and follows the recommended material design guidelines</string>
+    <string name="second_quadrant">create a composable thta lays ouit and draws a given painter class object</string>
+    <string name="third_quadrant">A layout composable that places its children in a horizontal sequence</string>
+    <string name="fourth_quadrant">A Layout composable that places its children in a vertical sequence</string>
+</resources>
