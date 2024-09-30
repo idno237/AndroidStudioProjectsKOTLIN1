@@ -50,8 +50,15 @@ class MainActivity : ComponentActivity() {
                 // A surface container using the 'background' color from the theme
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
                     //Greeting("Android ")
-                    GreetingText(message = getString(R.string.happy_birthday_idriss), from = "From Emma", modifier = Modifier.padding(8.dp))
+                    //GreetingText(message = getString(R.string.happy_birthday_idriss), from = "From Emma", modifier = Modifier.padding(8.dp))
+                    //GreetingText(message = "Happy Birthday IDRISS!", from = "From Emma", modifier = Modifier.padding(8.dp))
+                    //GreetingImage(message = stringResource(R.string.happy_birthday_text), from = "From Emma", modifier = Modifier.padding(8.dp))
+                    //GreetingImage2(message = stringResource(R.string.jetpack_compose_tutoriall), from = stringResource(R.string.second_text), modifier = Modifier.padding(8.dp))
+                    //GreetingImage3(message = "ALL tasks completed", from = "Nice work", modifier = Modifier.padding(8.dp))
 
+                    //Surface(color = MaterialTheme.colorScheme.background) { QuadrantPrincipal()}
+
+                    CarteVisite()
 
                 }
             }
@@ -328,7 +335,7 @@ fun BirthdayCardPreview() {
 
         //Surface(color = MaterialTheme.colorScheme.background) { QuadrantPrincipal()}
 
-        //CarteVisite()
+        CarteVisite()
     }
 }
 //---------------------------------------------------------------------------------------
